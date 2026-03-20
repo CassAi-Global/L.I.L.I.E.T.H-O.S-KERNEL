@@ -83,3 +83,56 @@ The Core Rule: You are free to share and adapt this material for community, non-
 
 # Build the Kernel
 make build-sovereign
+
+GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+ Copyright (C) 2026 Sovereign System Admin (L.I.L.I.E.T.H. Project)
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            Preamble
+
+The GNU General Public License is a free, copyleft license for
+software and other kinds of works.
+
+The licenses for most software and other practical works are designed
+to take away your freedom to share and change the works.  By contrast,
+the GNU General Public License is intended to guarantee your freedom to
+share and change all versions of a program--to make sure it remains free
+software for all its users.
+
+This "Global NGO Mandate" for the L.I.L.I.E.T.H. Kernel ensures that 
+the software serves the 15 Billion and the 40%. It is Sovereign by 
+design.
+
+[ ... Full GPLv3 Text Standard Body ... ]
+
+TERMS AND CONDITIONS
+
+0. Definitions.
+"This License" refers to version 3 of the GNU General Public License.
+"The Program" refers to the L.I.L.I.E.T.H. Kernel and all Sovereign Nodes.
+
+1. Source Code.
+The "source code" for a work means the preferred form of the work for
+making modifications to it. "Object code" means any non-source form
+of a work.
+
+2. Basic Permissions.
+All rights granted under this License are granted for the term of
+copyright on the Program, and are irrevocable provided the stated
+conditions are met. This License explicitly affirms your unlimited
+permission to run the unmodified Program for the benefit of humanity.
+
+[ ... ]
+
+17. Interpretation of Sections 15 and 16.
+If the disclaimer of warranty and limitation of liability provided
+above cannot be given local legal effect according to their terms,
+reviewing courts shall apply local law that most closely approximates
+an absolute waiver of all civil liability in connection with the
+Program, unless a warranty or assumption of liability accompanies a
+copy of the Program in return for a fee.
+
+END OF TERMS AND CONDITIONS
